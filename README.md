@@ -20,7 +20,7 @@
 
 [![Jaewook's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaewook94&hide=prs,issues&count_private=true&show_icons=true&theme=dark)](https://github.com/jaewook94/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaewook94&repo=data-crawling-project&theme=dark)](https://github.com/jaewook94/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaewook94&repo=data-crawling-project&theme=dark)](https://github.com/jaewook94/data-crawling-project)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaewook94&hide=,html,CSS&layout=compact&theme=dark)](https://github.com/jaewook94/github-readme-stats)
  -->
