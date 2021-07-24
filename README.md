@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Jaewook's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaewook94&hide=contribs,prs,issues,count_private=true&show_icons=true&theme=dark)
-)
+[![Jaewook's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaewook94&hide=contribs,prs,issues,count_private=true&show_icons=true&theme=dark)](https://github.com/jaewook94/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaewook94&repo=data-crawling-project)](https://github.com/jaewook94/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaewook94&repo=data-crawling-project&theme=dark)](https://github.com/jaewook94/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaewook94&hide=,html,CSS&layout=compact&theme=dark)](https://github.com/jaewook94/github-readme-stats)
