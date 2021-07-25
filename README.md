@@ -1,29 +1,33 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&reversal=true&animation=fadeIn&text=JaeWook%20Lee&fontSize=70&fontAlignY=30&fontAlign=28&desc=baby%20ML%20engineer&descSize=25&descAlign=67&descAlignY=35&rotate=-0.4)
+### 🌱 **Baby Machine-Learning engineer**   
+### 💻 **Currently working at Coxwave in SNU**</br>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&reversal=true&animation=fadeIn&text=JaeWook%20Lee&fontSize=70&fontAlignY=30&fontAlign=28&desc=baby%20ML%20Engineer&descSize=25&descAlign=67&descAlignY=35&rotate=-0.4)
-- 💻  **Baby ML Engineer**   
-- 🌱  **Currently working at coxwave in SNU**
-- 📫  **You can reach me by jaewook.lee@coxwave.com**
-
-<h3 align="center"><b>🛠 Dev Stack 🛠</b></h3>
+<h3 align="center"><b>🛠 Dev stack</b></h3></br>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"></a> &nbsp 
-<img src="https://img.shields.io/badge/c-00599C?style=flat&logo=c&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/MATLAB-blueviolet?style=flat&logo=Matlab&logoColor=white"></a> &nbsp
+<img src="https://img.shields.io/badge/MATLAB-lightgrey?style=flat&logo=MATLAB&logoColor=white"></a> &nbsp
+<img src="https://img.shields.io/badge/c-00599C?style=flat&logo=c&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/VSCode-4f015e?style=flat&logo=VSCode&logoColor=white"></a> &nbsp
 <!-- <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp  -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/CSS3-F7DF1E?style=flat&logo=CSS3&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/CSS3-green?style=flat&logo=CSS3&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/></a> </p>
-<!-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a> &nbsp -->
 <!-- <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/></a> &nbsp -->
 <!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp -->
 
-[![Jaewook's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaewook94&hide=prs,issues&count_private=true&show_icons=true&theme=dark)](https://github.com/jaewook94/github-readme-stats)
+</br></br>[![Jaewook's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaewook94&hide=prs,issues&count_private=true&show_icons=true&theme=dark)](https://github.com/jaewook94/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaewook94&repo=data-crawling-project&theme=dark)](https://github.com/jaewook94/data-crawling-project)
 
-[![GitHub Badge](http://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&link=https://github.com/jaewook94/)](https://github.com/jaewook94/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaewooklee/)](https://www.linkedin.com/in/jaewooklee/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:wodnr079@gmail.com)](mailto:wodnr079@gmail.com)
-[![Notion Badge](https://img.shields.io/badge/Notion-d14836?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/jaewooklee/)](https://www.notion.so/jaewooklee/)
+<h3 align="center"><b>📫 Reach me </b></h3></br>
+<div align=center>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaewook94&count_bg=%23EDF5E7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![GitHub Badge](http://img.shields.io/badge/GitHub-141414?style=flat&logo=Github&logoColor=white&link=https://github.com/jaewook94/)](https://github.com/jaewook94/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaewooklee/)](https://www.linkedin.com/in/jaewooklee/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:wodnr079@gmail.com)](mailto:wodnr079@gmail.com)
+[![Notion Badge](https://img.shields.io/badge/Notion-orange?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/jaewooklee/)](https://www.notion.so/jaewooklee/)
+[![Slack Badge](https://img.shields.io/badge/Slack-3c0147?style=flat&logo=Slack&logoColor=white&link=mailto:jaewook.lee@coxwave.com)](mailto:jaewook.lee@coxwave.com) </br></br>
+
+</br></br>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaewook94&count_bg=%23EDF5E7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+ </div>
