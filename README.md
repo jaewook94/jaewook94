@@ -1,8 +1,10 @@
-# Hi there 👋, I'm JaeWook Lee
+## Hi there 👋
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=JaeWook&desc=Hello%20Lee&fontSize=90&reversal=true)
 
 - 💻  **I'm a baby ML Engineer**   
 - 🌱  **I’m currently working at coxwave in SNU**
-- 📫  **How to reach me : jaewook.lee@coxwave.com**
+- 📫  **You can reach me by jaewook.lee@coxwave.com**
 
 <!-- - 📮  **JaeWook's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wodnr079@gmail.com)](mailto:wodnr079@gmail.com) -->
 <!--
