@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&reversal=true&animation=fadeIn&text=JaeWook%20Lee&fontSize=70&fontAlignY=30&fontAlign=28&desc=ML%20engineer&descSize=25&descAlign=63&descAlignY=35&rotate=-0.4)
-### 🌱 **Baby Machine-Learning engineer**   
-### 💻 **Currently working at Coxwave in SNU**</br>
+### :baby: **Baby Machine-Learning engineer**   
+### :computer: **Currently working at Coxwave in SNU**</br>
 
 <h3 align="center"><b>🛠 Dev stack</b></h3></br>
 <p align="center">
