@@ -19,10 +19,10 @@
 <!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp -->
 
 [![Jaewook's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaewook94&hide=prs,issues&count_private=true&show_icons=true&theme=dark)](https://github.com/jaewook94/github-readme-stats)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaewook94&repo=data-crawling-project&theme=dark)](https://github.com/jaewook94/data-crawling-project)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaewook94&hide=,html,CSS&layout=compact&theme=dark)](https://github.com/jaewook94/github-readme-stats)
- -->
+[![GitHub Badge](http://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/jaewook94/)](https://github.com/jaewook94/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaewooklee/)](https://www.linkedin.com/in/jaewooklee/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:wodnr079@gmail.com)](mailto:wodnr079@gmail.com)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaewook94&count_bg=%23EDF5E7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
