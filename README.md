@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=JaeWook%20Lee&desc=baby%20ML%20Engineer&fontSize=90&reversal=true&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&reversal=true&animation=fadeIn&text=JaeWook%20Lee&fontSize=70&fontAlignY=40&fontAlign=28&desc=baby%20ML%20Engineer&descSize=25&descAlign=67&descAlignY=45&rotate=-0.4)
 
-- 💻  **I'm a baby ML Engineer**   
-- 🌱  **I’m currently working at coxwave in SNU**
+- 💻  **Baby ML Engineer**   
+- 🌱  **Currently working at coxwave in SNU**
 - 📫  **You can reach me by jaewook.lee@coxwave.com**
 
 <!-- - 📮  **JaeWook's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wodnr079@gmail.com)](mailto:wodnr079@gmail.com) -->
