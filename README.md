@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&reversal=true&animation=fadeIn&text=JaeWook%20Lee&fontSize=70&fontAlignY=40&fontAlign=28&desc=baby%20ML%20Engineer&descSize=25&descAlign=67&descAlignY=45&rotate=-0.4)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&reversal=true&animation=fadeIn&text=JaeWook%20Lee&fontSize=70&fontAlignY=30&fontAlign=28&desc=baby%20ML%20Engineer&descSize=25&descAlign=67&descAlignY=35&rotate=-0.4)
 - 💻  **Baby ML Engineer**   
 - 🌱  **Currently working at coxwave in SNU**
 - 📫  **You can reach me by jaewook.lee@coxwave.com**
