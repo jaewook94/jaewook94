@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=JaeWook&desc=Hello%20Lee&fontSize=90&reversal=true)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=JaeWook%20Lee&desc=baby%20ML%20Engineer&fontSize=90&reversal=true&animation=fadeIn)
 
 - 💻  **I'm a baby ML Engineer**   
 - 🌱  **I’m currently working at coxwave in SNU**
