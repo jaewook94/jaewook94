@@ -2,19 +2,16 @@
 ### :baby: **Baby Machine-Learning engineer**   
 ### :computer: **Currently working at Coxwave in SNU**</br>
 
-<h3 align="center"><b>🛠 Dev stack</b></h3></br>
+<!-- <h3 align="center"><b>🛠 Dev stack</b></h3></br> 당분간은 가릴거임!!!!
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"></a> &nbsp 
 <img src="https://img.shields.io/badge/MATLAB-lightgrey?style=flat&logo=MATLAB&logoColor=white"></a> &nbsp
 <img src="https://img.shields.io/badge/c-00599C?style=flat&logo=c&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/VSCode-4f015e?style=flat&logo=VSCode&logoColor=white"></a> &nbsp
-<!-- <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp  -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/CSS3-green?style=flat&logo=CSS3&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/></a> </p>
-<!-- <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/></a> &nbsp -->
-<!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp -->
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/></a> </p> -->
 
 </br></br>[![Jaewook's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaewook94&hide=prs,issues&count_private=true&show_icons=true&theme=dark)](https://github.com/jaewook94/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaewook94&repo=data-crawling-project&theme=dark)](https://github.com/jaewook94/data-crawling-project)
