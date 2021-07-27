@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/></a> </p> -->
 
-</br></br>[![Jaewook's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaewook94&hide=prs,issues&count_private=false&show_icons=true&theme=dark)](https://github.com/jaewook94/github-readme-stats)
+</br></br>[![Jaewook's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaewook94&hide=prs,issues&count_private=true&show_icons=true&theme=dark)](https://github.com/jaewook94/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaewook94&repo=data-crawling-project&theme=dark)](https://github.com/jaewook94/data-crawling-project)
 
 <h3 align="center"><b>📫 Reach me </b></h3></br>
