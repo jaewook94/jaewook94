@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&reversal=true&animation=fadeIn&text=JaeWook%20Lee&fontSize=70&fontAlignY=30&fontAlign=28&desc=ML%20engineer&descSize=25&descAlign=63&descAlignY=35&rotate=-0.4)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&reversal=true&animation=fadeIn&text=JaeWook%20Lee&fontSize=70&fontAlignY=30&fontAlign=28&desc=ML%20engineer&descSize=25&descAlign=63&descAlignY=35&rotate=-0.4) -->
+
 ### :electron: **Majoring in Electrical & Electronic (EE)**
 ### :baby: **Baby Machine-Learning Engineer**   
 ### :computer: **Currently working for a startup company @ Seoul National University (SNU)**</br>
