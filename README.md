@@ -4,7 +4,7 @@
 ### :baby: **Baby Machine-Learning Engineer**   
 ### :computer: **Currently working for a startup company @ Seoul National University (SNU)**</br>
 
-<!-- <h3 align="center"><b>🛠 Dev stack</b></h3></br> 당분간은 가릴거임!!!!
+<!-- <h3 align="center"><b>🛠 Dev stack</b></h3></br>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"></a> &nbsp 
 <img src="https://img.shields.io/badge/MATLAB-lightgrey?style=flat&logo=MATLAB&logoColor=white"></a> &nbsp
@@ -17,7 +17,8 @@
 
 </br></br>[![Jaewook's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaewook94&hide=prs,issues&count_private=true&show_icons=true&theme=dark)](https://github.com/jaewook94/github-readme-stats)
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaewook94&repo=data-crawling-project&theme=dark)](https://github.com/jaewook94/data-crawling-project) -->
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaewook94&repo=data-crawling-project&theme=dark)](https://github.com/jaewook94/data-crawling-project) --> 이런식으로 Repository를 노출
 
 <h3 align="center"><b>📫 Reach me </b></h3></br>
 <div align=center>
