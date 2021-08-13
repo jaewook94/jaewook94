@@ -17,8 +17,8 @@
 
 </br></br>[![Jaewook's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaewook94&hide=prs,issues&count_private=true&show_icons=true&theme=dark)](https://github.com/jaewook94/github-readme-stats)
 
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaewook94&repo=data-crawling-project&theme=dark)](https://github.com/jaewook94/data-crawling-project) --> 이런식으로 Repository를 노출
+<!-- 이런식으로 Repository를 노출 -->
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaewook94&repo=data-crawling-project&theme=dark)](https://github.com/jaewook94/data-crawling-project) --> 
 
 <h3 align="center"><b>📫 Reach me </b></h3></br>
 <div align=center>
