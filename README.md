@@ -2,7 +2,7 @@
 
 ### :electron: **Majoring in Electrical & Electronic (EE)**
 ### :baby: **Machine-Learning Engineer**   
-### :computer: **Currently working for a startup company @ Seoul National University (SNU)**</br>
+### :computer: **Currently @ Seoul National University (SNU)**</br>
 
 <!-- <h3 align="center"><b>🛠 Dev stack</b></h3></br>
 <p align="center">
