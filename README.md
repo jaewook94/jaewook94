@@ -3,7 +3,7 @@
 ### :electron: **Majoring in Electrical & Electronic (EE)**
 ### :rocket: **Machine-Learning Engineer**
 <!-- ### 👶: **Wanna be Data Scientist** -->
-### :computer: **Currently working & studying @ Seoul National University (SNU)**</br>
+### :computer: **Currently working @ Coxwave**</br>
 
 <!-- <h3 align="center"><b>🛠 Dev stack</b></h3></br>
 <p align="center">
