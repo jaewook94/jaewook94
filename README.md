@@ -1,9 +1,9 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&reversal=true&animation=fadeIn&text=JaeWook%20Lee&fontSize=70&fontAlignY=30&fontAlign=28&desc=ML%20engineer&descSize=25&descAlign=63&descAlignY=35&rotate=-0.4) -->
 
-#### 🥇 **Majoring in Electrical & Electronic @ CAU (~2022.02)**
-#### 👨‍🎓 **Undergraduate Researcher @ System Software Lab (~2020.12)**
-#### 💻 **Undergraduate Researcher @ Vision Learning Lab (~2021.07)**
-#### 🚀 **ML & Data Engineer @ Coxwave (~2021.12)**
+#### 🥇 **Majoring in Electrical & Electronic @ CAU (~ 2022.02)**
+#### 👨‍🎓 **Undergraduate Researcher @ System Software Lab (2020.06 ~ 2020.12)**
+#### 💻 **Undergraduate Researcher @ Vision Learning Lab (2020.01 ~ 2021.07)**
+#### 🚀 **ML & Data Engineer @ Coxwave (2021.07 ~ 2021.12)**
 <!-- ### 👶: **Wanna be Data Scientist** -->
 #### 💰 **Currently working @ (2022.02~)**</br>
 
@@ -23,7 +23,7 @@
 <!-- 이런식으로 Repository를 노출 -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaewook94&repo=data-crawling-project&theme=dark)](https://github.com/jaewook94/data-crawling-project) --> 
 
-<h3 align="center"><b>📫 Reach me </b></h3></br>
+<h4 align="center"><b>📫 Reach me </b></h4></br>
 <div align=center>
 
 [![GitHub Badge](http://img.shields.io/badge/GitHub-141414?style=flat&logo=Github&logoColor=white&link=https://github.com/jaewook94/)](https://github.com/jaewook94/)
