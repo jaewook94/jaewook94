@@ -3,7 +3,7 @@
 ### :electron: **Majoring in Electrical & Electronic @ CAU (EE)**
 ### :rocket: **Machine-Learning & Data Engineer @ Coxwave (~2021.12)**
 <!-- ### 👶: **Wanna be Data Scientist** -->
-### :computer: **Currently working @ **</br>
+### :computer: **Currently working @**</br>
 
 <!-- <h3 align="center"><b>🛠 Dev stack</b></h3></br>
 <p align="center">
