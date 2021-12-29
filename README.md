@@ -1,6 +1,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&reversal=true&animation=fadeIn&text=JaeWook%20Lee&fontSize=70&fontAlignY=30&fontAlign=28&desc=ML%20engineer&descSize=25&descAlign=63&descAlignY=35&rotate=-0.4) -->
 
-#### 🥇 **Majoring in Electrical & Electronic @ CAU (~ 2022.02)**
+### 🥇 **Majoring in Electrical & Electronic @ CAU (~ 2022.02)**
 #### 👨‍🎓 **Undergraduate Researcher @ System Software Lab (2020.06 ~ 2020.12)**
 #### 💻 **Undergraduate Researcher @ Vision Learning Lab (2020.01 ~ 2021.07)**
 #### 🚀 **ML & Data Engineer @ Coxwave (2021.07 ~ 2021.12)**
