@@ -5,7 +5,7 @@
 #### 💻 **Undergraduate Researcher @ Vision Learning Lab (2020.01 ~ 2021.07)**
 #### 🚀 **ML & Data Engineer @ Coxwave (2021.07 ~ 2021.12)**
 <!-- ### 👶: **Wanna be Data Scientist** -->
-#### 💰 **Currently working @ Samsung S.LSI (2022.02~)**</br>
+#### 💰 **Currently working as SW Engineer @ Samsung Electronics S.LSI (2022.02~)**</br>
 
 <!-- <h3 align="center"><b>🛠 Dev stack</b></h3></br>
 <p align="center">
